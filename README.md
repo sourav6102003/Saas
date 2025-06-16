@@ -1,4 +1,4 @@
-# 🧠 SaaS: Turn Ideas into MVPs
+# 🧠VIBE AI
 
 Most aspiring founders have bold, world-changing ideas — but many can't write a single line of code.  
 **This platform helps them launch MVPs just by describing their idea.**  
