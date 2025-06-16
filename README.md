@@ -35,7 +35,7 @@ It generates a fully working SaaS boilerplate with:
 ### 1. Clone the Repository and run
 
 ```bash
-git clone https://github.com/yourusername/idea-to-mvp.git
+git clone https://github.com/sourav6102003/Saas
 cd Saas
 cd vibe
 npm install
